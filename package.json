@@ -1,0 +1,15 @@
+{
+  "name": "@tmaraki/github-pkg-demo",
+  "version": "1.0.0",
+  "description": "",
+  "repository": {
+    "url": "git@github.com:tmaraki/github-pkg-demo.git"
+  },
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
